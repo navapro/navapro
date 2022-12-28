@@ -1,9 +1,8 @@
 
 ### hi there, i'm Naveen. 👋
-- studying computer science @ uw '26 🎓
+- studying computer science @ uw '24 🎓
 - based in waterloo, ontario 🌎
-- full stack engineer coop @ Avante io
-- prev system administrator at 0x Tech
+- software engineer coop @ Intuit
 - curious about tech and finance 🚀
 - checkout my latest projects 👇
 
