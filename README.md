@@ -1,6 +1,6 @@
 
 ### hi there, i'm Naveen. 👋
-- studying computer science @ uw '24 🎓
+- studying computer science @ uw '27 🎓
 - based in waterloo, ontario 🌎
 - software engineer coop @ Intuit
 - curious about tech and finance 🚀
